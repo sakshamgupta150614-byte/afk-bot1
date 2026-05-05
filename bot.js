@@ -3,7 +3,7 @@ const express = require('express')
 
 function startBot() {
   const bot = mineflayer.createBot({
-    host: 'YOUR_SERVER_IP',
+    host: 'YOUTHSMPS.MINEFORT.COM',
     port: 25565,
     username: 'AFK_Bot',
     version: false
